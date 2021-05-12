@@ -1,5 +1,4 @@
-// Took more than one hour to finish this
-// Fork or Star this repo if you find this useful 😃
+
 
 import java.util.Scanner;
 
